@@ -1,0 +1,6 @@
+C:\Users\USER.VADD1PC33\Desktop\net\FirstProject\Saturday\bin\Debug\Saturday.exe.config
+C:\Users\USER.VADD1PC33\Desktop\net\FirstProject\Saturday\bin\Debug\Saturday.exe
+C:\Users\USER.VADD1PC33\Desktop\net\FirstProject\Saturday\bin\Debug\Saturday.pdb
+C:\Users\USER.VADD1PC33\Desktop\net\FirstProject\Saturday\obj\Debug\Saturday.exe
+C:\Users\USER.VADD1PC33\Desktop\net\FirstProject\Saturday\obj\Debug\Saturday.pdb
+C:\Users\USER.VADD1PC33\Desktop\net\FirstProject\Saturday\obj\Debug\Saturday.csprojResolveAssemblyReference.cache

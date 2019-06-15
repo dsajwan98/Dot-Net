@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\sortedlist\sortedlist\bin\Debug\sortedlist.exe.config
+C:\Users\LENOVO\source\repos\sortedlist\sortedlist\bin\Debug\sortedlist.exe
+C:\Users\LENOVO\source\repos\sortedlist\sortedlist\bin\Debug\sortedlist.pdb
+C:\Users\LENOVO\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.exe
+C:\Users\LENOVO\source\repos\sortedlist\sortedlist\obj\Debug\sortedlist.pdb

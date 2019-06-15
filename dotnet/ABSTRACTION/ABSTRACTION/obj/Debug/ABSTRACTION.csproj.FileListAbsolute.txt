@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\ABSTRACTION\ABSTRACTION\bin\Debug\ABSTRACTION.exe.config
+C:\Users\LENOVO\source\repos\ABSTRACTION\ABSTRACTION\bin\Debug\ABSTRACTION.exe
+C:\Users\LENOVO\source\repos\ABSTRACTION\ABSTRACTION\bin\Debug\ABSTRACTION.pdb
+C:\Users\LENOVO\source\repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.exe
+C:\Users\LENOVO\source\repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.pdb

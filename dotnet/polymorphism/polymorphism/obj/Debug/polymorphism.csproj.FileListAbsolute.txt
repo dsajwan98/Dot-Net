@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\polymorphism\polymorphism\bin\Debug\polymorphism.exe.config
+C:\Users\LENOVO\source\repos\polymorphism\polymorphism\bin\Debug\polymorphism.exe
+C:\Users\LENOVO\source\repos\polymorphism\polymorphism\bin\Debug\polymorphism.pdb
+C:\Users\LENOVO\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.exe
+C:\Users\LENOVO\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.pdb
